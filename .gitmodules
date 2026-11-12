@@ -1,0 +1,6 @@
+[submodule "hireloop-client"]
+	path = hireloop-client
+	url = https://github.com/rashid-datawiz/hireloop-client.git
+[submodule "hireloop-resources"]
+	path = hireloop-resources
+	url = https://github.com/ProgrammingHero1/hireloop-resources.git
